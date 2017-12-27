@@ -16,7 +16,7 @@ Education
 Toulouse School of Economics, France, 2012
 * Ph.D in Economics, Goethe University Frankfurt, 2018 (expected)
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
