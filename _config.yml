@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marco Kotschedoff / Personal Homepage"
+title                    : "Marco J. W. Kotschedoff"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Marco Kotschedoff"
 description              : &description "personal description"
 url                      : https://Kotsche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
