@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc.in Economics, Mannheim University, Germany, 2010
-* M.Sc. in Mannheim University, Germany &
+* M.Sc. in Economics, Mannheim University, Germany &
 Toulouse School of Economics, France, 2012
 * Ph.D in Economics, Goethe University Frankfurt, 2018 (expected)
 
