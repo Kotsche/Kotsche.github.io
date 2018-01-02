@@ -26,7 +26,7 @@ Experience
     regulation and price discrimination
 
 
-* 2013 - 2014: Researcher
+* 2013 - 2014: Researcher & Policy Adviser
   * Centre for European Economic Research (ZEW),
     Mannheim, Germany
   * Department for Competition and Regulation
