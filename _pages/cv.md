@@ -11,22 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Economics, Mannheim University, Germany, 2010
+
+* Ph.D in Economics, Goethe University Frankfurt, 2018 (expected)
 * M.Sc. in Economics, Mannheim University, Germany &
 Toulouse School of Economics, France, 2012
-* Ph.D in Economics, Goethe University Frankfurt, 2018 (expected)
+* B.Sc. in Economics, Mannheim University, Germany, 2010
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2014: Research Assistant
+  * Goethe University Frankfurt
+  * Supervisor: Prof. Dr. Roman Inderst
+  * Researching on topics including retail competition, product
+    regulation and price discrimination
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 2013 - 2014: Researcher
+  * Centre for European Economic Research (ZEW),
+    Mannheim, Germany
+  * Department for Competition and Regulation
+  * Worked on policy advisory projects for heavily regulated markets, e.g.
+    electricity and pharmaceuticals
+
   
 Skills
 ======
