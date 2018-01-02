@@ -25,11 +25,10 @@ Goethe University Frankfurt
 Faculty of Economics and Business Administration  
 Campus Westend  
 Theodor-W.-Adorno-Platz 3  
-60629 Frankfurt am Main  
+60323 Frankfurt am Main, Germany  
 Phone:	+49 (69) 798-34035  
 E-Mail:	kotschedoff[at]econ.uni-frankfurt[dot]de   
-Room:	HoF 4.52b  
-Office hours:	Upon request  
+ 
 
 
 Getting started
