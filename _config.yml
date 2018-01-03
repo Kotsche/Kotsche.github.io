@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student in Economics"
   location         : "Frankfurt am Main, Germany"
-  employer         :
+  employer         :  "Goethe University Frankfurt"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
