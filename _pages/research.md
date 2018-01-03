@@ -13,7 +13,7 @@ redirect_from:
 Working papers
 ======
 
-### An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increase 
+### An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases 
 <details>
 <summary>Abstract</summary>
 This paper analyzes how retailers can benefit from store brands to
