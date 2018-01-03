@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my personal homepage! I am a Ph.D. candidate at Goethe University Frankfurt, Germany. My research interests are in the intersection of Economics and Quantative Marketing. In particular, I am interested in antitrust, demand estimation, regulation and consumer behavior. Typically, I apply state-of-the-art empirical methods to consumer data in order to answer relevant questions for policy makers and firms.
+Hello and welcome to my personal homepage! I am a Ph.D. candidate at Goethe University Frankfurt, Germany. My research interest lies in the overlap of Economics with a focus on Industrial Organization and Quantative Marketing. In particular, I am interested in antitrust, demand estimation, regulation and consumer behavior. Typically, I apply state-of-the-art empirical methods to consumer and market data in order to answer relevant questions for policy makers and firms.
 
 
 Curriculum Vitae
