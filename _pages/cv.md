@@ -5,8 +5,8 @@ permalink: /cv/
 author_profile: true
 urlcolor: blue
 redirect_from:
-  - /cv/
-  - /cv.html
+  - /resume/
+
 ---
 
 {% include base_path %}
