@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -36,7 +35,7 @@ This paper estimates an individual level demand model for animal welfare differe
 
 
 
-[Download paper here](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)
+Download paper [here](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)
 
 
 ## Work in progress
