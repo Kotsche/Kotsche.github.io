@@ -11,7 +11,8 @@ redirect_from:
 {% include base_path %}
 
 
-You can download my full CV here.
+[You can download my detailed CV here.](http://kotsche.github.io/files/CV_Homepage.pdf)
+
 
 Education
 ======
