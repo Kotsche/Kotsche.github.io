@@ -34,7 +34,7 @@ Experience
   * Centre for European Economic Research (ZEW),
     Mannheim, Germany
   * Department for Competition and Regulation
-  * Worked on policy advisory projects for heavily regulated markets, e.g.
+  * Worked on policy advisory projects for heavily regulated product markets, e.g.
     electricity and pharmaceuticals
 
   
