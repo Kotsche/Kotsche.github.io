@@ -14,11 +14,14 @@ Working papers
 
 ### An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increase 
 
-
+<details>
+<summary>Abstract</summary>
 This paper analyzes how retailers can benefit from store brands to
-mitigate losses when brand manufacturers increase wholesale prices. An incidence of a substantial coordinated raise in brand manufacturers' wholesale prices disguised by a modest increase in raw coffee bean prices provides the necessary variation to answer this question.
+mitigate losses when brand manufacturers increase wholesale prices. An incidence of a substantial coordinated raise in brand manufacturers' wholesale prices disguised by a modest increase in input costs provides the necessary variation to answer this question.
 It affects brand manufacturers' wholesale prices in a different way than those for store brand producers. As a consequence retailers' marginal costs of stocking national brands increase more than those of store brands. I study how retailers react to this asymmetric cost shock.
 The estimates suggest that through altering their prices and margins retailers divert more demand towards store brands and indeed mitigate the resulting losses, albeit the extent varies across retailers. 
+</details>
+
 
 
 ### Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare 

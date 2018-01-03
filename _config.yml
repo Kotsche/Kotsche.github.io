@@ -82,9 +82,9 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student in Economics"
   location         : "Frankfurt am Main, Germany"
-  employer         :  "Goethe University Frankfurt"
+  employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "kotschedoff[at]econ.uni-frankfurt[dot]de""  
   uri              :
   bitbucket        :
   codepen          :
