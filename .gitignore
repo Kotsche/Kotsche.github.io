@@ -1,4 +1,10 @@
 _site/
 
+#Ignore some R-Files, Tex-Files
 
 *.Rhistory
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
