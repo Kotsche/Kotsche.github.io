@@ -15,13 +15,13 @@ Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomic
 
 ## Topics
 
-Pricing, Demand estimation,  Consumer Behavior, Regulation, Antitrust
+Pricing, Demand Estimation,  Consumer Behavior, Regulation, Antitrust
 
 
 ## Working papers
 
 
-**An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases** 
+_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_
 <details>
 <summary>Abstract</summary>
 This paper analyzes how retailers can benefit from store brands to
@@ -35,8 +35,8 @@ The estimates suggest that through altering their prices and margins retailers d
 
 
 
-**Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare**   
-with [*Max Pachali (Goethe University Frankfurt)*](https://sites.google.com/site/mjpachali/)  
+[_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)
+ with [Max Pachali (Goethe University Frankfurt)](https://sites.google.com/site/mjpachali/)  
 Invited at: CRESSE 2017, EEA 2017, QME Conference 2017\*, EARIE 2017 (Rising Stars Session)  
 \* presented by Max Pachali
 <details><summary>Abstract</summary>
@@ -44,12 +44,10 @@ This paper estimates an individual level demand model for animal welfare differe
 </details>
 
 
-Download paper [here](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)
-
 
 ## Work in progress
 
 
-**Cost Pass-Through and Vertical Contracts: A Simulation Approach**
+_Cost Pass-Through and Vertical Contracts: A Simulation Approach_
 
   
