@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+## Research fields
+
+Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomics
+
+## Topics
+
+Regulation, Pricing,  Consumer Behavior, Antitrust
 
 
 ## Working papers
