@@ -35,7 +35,7 @@ The estimates suggest that through altering their prices and margins retailers d
     
 
 _Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_
-(with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link]](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)  
+(with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)  
 Invited at: CRESSE 2017, EEA 2017, QME Conference 2017\*, EARIE 2017 (Rising Stars Session)  
 \* presented by Max Pachali
 <details><summary>Abstract</summary>
