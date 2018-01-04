@@ -30,13 +30,12 @@ It affects brand manufacturers' wholesale prices in a different way than those f
 The estimates suggest that through altering their prices and margins retailers divert more demand towards store brands and indeed mitigate the resulting losses, albeit the extent varies across retailers. 
 </details>
 
-
-
-
-
+   
+   
+    
 
 [_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)
- with [Max Pachali (Goethe University Frankfurt)](https://sites.google.com/site/mjpachali/)  
+( with [Max Pachali](https://sites.google.com/site/mjpachali/))    
 Invited at: CRESSE 2017, EEA 2017, QME Conference 2017\*, EARIE 2017 (Rising Stars Session)  
 \* presented by Max Pachali
 <details><summary>Abstract</summary>
