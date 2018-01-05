@@ -2,7 +2,6 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-urlcolor: blue
 redirect_from:
   - /research
 ---
