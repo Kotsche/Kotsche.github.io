@@ -31,7 +31,7 @@ The estimates suggest that through altering their prices and margins retailers d
 </details>
 
    
-<!-- -->   
+<br>
     
 
 _Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_
