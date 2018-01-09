@@ -17,7 +17,7 @@ You can download my detailed CV [here](http://kotsche.github.io/files/CV_Homepag
 Education
 ======
 
-* Ph.D in Economics, Goethe University Frankfurt, 2018 (expected)
+* Doctoral degree in Economics, Goethe University Frankfurt, 2018 (expected)
 * M.Sc. in Economics, Mannheim University, Germany &
 Toulouse School of Economics, France, 2012
 * B.Sc. in Economics, Mannheim University, Germany, 2010
@@ -27,8 +27,8 @@ Experience
 * Since 2014: Research Assistant
   * Goethe University Frankfurt
   * Supervisor: Prof. Dr. Roman Inderst
-  * Researching on topics including retail competition, product
-    regulation and price discrimination
+  * Research on topics including retail competition, product
+    regulation and pricing
 
 
 * 2013 - 2014: Researcher & Policy Adviser
