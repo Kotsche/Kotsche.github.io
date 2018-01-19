@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my personal homepage! I am a doctoral candidate at Goethe University Frankfurt, Germany. My research focuses on the interaction of Economics and Quantitative Marketing. In particular, I am interested in pricing, demand estimation,  consumer behavior, regulation and antitrust. Typically, I apply state-of-the-art empirical methods to consumer and market data in order to answer relevant questions for policy makers and firms.
 
 
 Curriculum Vitae
