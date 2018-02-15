@@ -24,10 +24,7 @@ _An Empirical Investigation of Store Brands and their Role to Mitigate Brand Man
 <details>
 <summary>Abstract</summary>
 <sub>
-This paper analyzes how retailers can benefit from store brands to
-mitigate losses when brand manufacturers increase wholesale prices. An incidence of a substantial coordinated raise in brand manufacturers' wholesale prices disguised by a modest increase in input costs provides the necessary variation to answer this question.
-It affects brand manufacturers' wholesale prices in a different way than those for store brand producers. As a consequence retailers' marginal costs of stocking national brands increase more than those of store brands. I study how retailers react to this asymmetric cost shock.
-The estimates indicate that through altering their prices and margins retailers divert more demand towards store brands and indeed mitigate the resulting losses, albeit the extent varies across retailers. 
+This paper analyzes how store brands enable retailers to mitigate the effect of brand manufacturer wholesale price increases. Two significant raises in brand manufacturers' wholesale prices provide the necessary variation to examine the strategic role of store brands. They affect brand manufacturers' wholesale prices in a different way than those for store brand producers. As a consequence retailers' marginal costs of stocking national brands increase more than those of store brands. I study how retailers react to this asymmetric cost shock. The estimates from a structural model indicate that through altering their prices and margins retailers divert more demand towards store brands and indeed mitigate the resulting losses, albeit the extent varies across retailers. 
 </sub>
 </details>
 
