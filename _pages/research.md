@@ -21,6 +21,7 @@ Pricing, Demand Estimation,  Consumer Behavior, Regulation, Antitrust
 
 
 _An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_
+
 Presented at: MaCCI 2018 
 <details>
 <summary>Abstract</summary>
