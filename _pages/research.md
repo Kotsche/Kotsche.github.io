@@ -20,7 +20,7 @@ Pricing, Demand Estimation,  Consumer Behavior, Regulation, Antitrust
 ## Working papers
 
 
-_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_  
+**_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_**  
 Presented at: MaCCI 2018 
 <details>
 <summary>Abstract</summary>
@@ -33,9 +33,9 @@ This paper analyzes how store brands enable retailers to mitigate the effect of 
 <br>
     
 
-_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_
+**_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_**
 (with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)  
-<ins>Revise and Resubmit - Marketing Science (Special Issue on Consumer Protection)</ins> - under revision
+<ins>Revise and Resubmit - Marketing Science (Special Issue on Consumer Protection)</ins> - under revision 
 Presented at: CRESSE 2017, EEA 2017, QME Conference 2017\*, EARIE 2017 (Rising Stars Session)  
 \* by Max Pachali
 <details><summary>Abstract</summary>
@@ -49,6 +49,6 @@ This paper estimates an individual level demand model for animal welfare differe
 ## Work in progress
 
 
-_Cost Pass-Through and Vertical Contracts: A Simulation Approach_
+**_Cost Pass-Through and Vertical Contracts: A Simulation Approach_**
 
   
