@@ -33,7 +33,7 @@ shows how after an asymmetric rise in wholesale prices, retailers' marginal cost
 national brands increases more than those of stocking their store brand. The estimates from
 a structural model of retail competition indicate that by altering their prices and margins,
 retailers can divert more demand towards store brands and indeed mitigate the losses that
-might have resulted if they had kept their product margins constant. As a consequence, retailers attract price-sensitive customers to switch to store brands by lowering their margins.
+might have resulted if they had kept their product margins constant. As a consequence, retailers get price-sensitive customers to switch to store brands by lowering their margins.
 For branded products, with a relatively larger change in marginal cost, retailers increase
 their margins instead.
 </sub>
