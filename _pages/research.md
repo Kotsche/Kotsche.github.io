@@ -21,12 +21,21 @@ Pricing, Demand Estimation,  Consumer Behavior, Regulation, Antitrust
 
 
 **_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_**  
+_Working paper available upon request_
 
 Presented at: MaCCI 2018 
 <details>
 <summary>Abstract</summary>
 <sub>
-This paper analyzes how store brands enable retailers to mitigate the effect of brand manufacturer wholesale price increases. A significant rise in brand manufacturers' wholesale prices provides the necessary variation to examine the strategic role of store brands. It affects brand manufacturers' wholesale prices in a different way than those for store brand producers. As a consequence retailers' marginal costs of stocking national brands increase more than those of store brands. I study how retailers react to this asymmetric cost shock. The estimates from a structural model of retail competition indicate that through altering their prices and margins retailers divert more demand towards store brands and indeed mitigate the resulting losses compared to a scenario of keeping margins constant, albeit the extent varies across retailers.
+Using individual coffee purchase data, this paper analyzes how retailers use their store
+brands to mitigate the effect of brand manufacturer wholesale price increases. This article
+shows how after an asymmetric rise in wholesale prices, retailers' marginal cost of stocking
+national brands increases more than those of stocking their store brand. The estimates from
+a structural model of retail competition indicate that by altering their prices and margins,
+retailers can divert more demand towards store brands and indeed mitigate the losses that
+might have resulted if they had kept their product margins constant. As a consequence, retailers get price-sensitive customers to switch to store brands by lowering their margins.
+For branded products, with a relatively larger change in marginal cost, retailers increase
+their margins instead.
 </sub>
 </details>
 
@@ -36,7 +45,7 @@ This paper analyzes how store brands enable retailers to mitigate the effect of 
 
 **_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_**
 (with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link](http://kotsche.github.io/files/KotschedoffPachali2017.pdf)  
-<ins>Revise and Resubmit - Marketing Science (Special Issue on Consumer Protection)</ins> - under revision 
+_<ins>Revise and Resubmit - Marketing Science (Special Issue on Consumer Protection)</ins> - under revision_
 
 Presented at: CRESSE 2017, EEA 2017, QME Conference 2017\*, EARIE 2017 (Rising Stars Session)  
 \* by Max Pachali
