@@ -45,7 +45,7 @@ their margins instead.
 
 **_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_**
 (with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3214249)  
-_<ins>Revise and Resubmit - Marketing Science (Special Issue on Consumer Protection)</ins> - under revision_
+_<ins>Revise and Resubmit - Marketing Science (Special Issue on Consumer Protection)</ins>_
 
 Presented at: CRESSE 2017, EEA 2017, QME Conference 2017\*, EARIE 2017 (Rising Stars Session)  
 \* by Max Pachali
