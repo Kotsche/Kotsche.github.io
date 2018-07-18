@@ -42,5 +42,8 @@ Here you can find some resources and links that I regard as very useful.
 * [antitrust](https://cran.r-project.org/web/packages/antitrust/vignettes/manual.pdf)
 
 
+## Research and Project Management
 
+* [Github](https://github.com/)
 
+* [Code and Data for the Social Sciences: A Practitioner's](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
