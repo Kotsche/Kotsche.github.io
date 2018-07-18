@@ -22,13 +22,23 @@ Here you can find some resources and some other links that I regard as very usef
 
 ## IO and Antitrust Resources
 
-* [Quantitative Techniques for Competition and Antitrust Analysis](https://press.princeton.edu/titles/9078.html) - Peter Davis & Eliana Garcés
+* [Quantitative Techniques for Competition and Antitrust Analysis](https://press.princeton.edu/titles/9078.html) - Peter Davis, Eliana Garcés
 
+* [Discrete Choice Methods with Simulation](https://www.cambridge.org/core/books/discrete-choice-methods-with-simulation/49CABD00F3DDDA088A8FBFAAAD7E9546) - Kenneth E. Train
 
 
 ## Marketing Analytics Resources
 
+* [Bayesian Statistics and Marketing](https://onlinelibrary.wiley.com/doi/book/10.1002/0470863692) -     Peter E. Rossi, Greg M. Allenby, Robert McCulloch
 
-https://press.princeton.edu/titles/9078.html
+* [R for Marketing Research and Analytics](https://www.springer.com/de/book/9783319144351) -   Chris Chapman, Elea McDonnell Feit
+
+## R-packages
+
+* bayesm
+
+* antitrust
+
+
 
 
