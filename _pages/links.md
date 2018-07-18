@@ -26,6 +26,8 @@ Here you can find some resources and some other links that I regard as very usef
 
 * [Discrete Choice Methods with Simulation](https://www.cambridge.org/core/books/discrete-choice-methods-with-simulation/49CABD00F3DDDA088A8FBFAAAD7E9546) - Kenneth E. Train
 
+* [Industrial Organization: Markets and Strategies](http://www.cambridge.org/us/academic/subjects/economics/industrial-economics/industrial-organization-markets-and-strategies-2nd-edition} - Paul Belleflamme, Martin Peitz 
+
 
 ## Marketing Analytics Resources
 
@@ -35,9 +37,9 @@ Here you can find some resources and some other links that I regard as very usef
 
 ## R-packages
 
-* bayesm
+* [bayesm](https://cran.r-project.org/web/packages/bayesm/vignettes/bayesm_Overview_Vignette.html)
 
-* antitrust
+* [antitrust](https://cran.r-project.org/web/packages/antitrust/vignettes/manual.pdf)
 
 
 
