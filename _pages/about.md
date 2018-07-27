@@ -14,7 +14,7 @@ Hello and welcome to my personal homepage! I am a doctoral candidate at Goethe U
 Curriculum Vitae
 ======
 
-You can download my detailed CV [here](http://kotsche.github.io/files/CV_Homepage.pdf)
+You can download my detailed CV [here](http://kotsche.github.io/files/CV_Homepage.pdf).
 
 Contact
 ======
