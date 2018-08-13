@@ -33,7 +33,7 @@ Here you can find some resources and links that I regard as very useful.
 
 * [Bayesian Statistics and Marketing](https://onlinelibrary.wiley.com/doi/book/10.1002/0470863692)
 
-* [R for Marketing Research and Analytics](https://www.springer.com/de/book/9783319144351)
+* [R for Marketing Research and Analytics](http://r-marketing.r-forge.r-project.org/index.html)
 
 ## R-packages
 
