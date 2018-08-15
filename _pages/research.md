@@ -55,7 +55,7 @@ This paper estimates an individual level demand model for eggs differentiated by
 </sub>
 </details>
 
-
+<br>
 
 **_Cost Pass-Through and Vertical Contracts in  Differentiated Products Markets_**  
 _Working paper available upon request_
