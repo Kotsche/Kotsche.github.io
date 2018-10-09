@@ -10,11 +10,11 @@ redirect_from:
 
 ## Research fields
 
-Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomics
+Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomics/Econometrics
 
 ## Topics
 
-Pricing, Demand Estimation,  Consumer Behavior, Regulation, Antitrust
+Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and Bayesian Approaches), Antitrust
 
 
 ## Working papers
@@ -23,7 +23,7 @@ Pricing, Demand Estimation,  Consumer Behavior, Regulation, Antitrust
 **_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_**  
 _Working paper available upon request_
 
-Presented at: MaCCI 2018 
+Presented at: MaCCI 2018, EARIE 2018, EMAC Research Camp 2018 
 <details>
 <summary>Abstract</summary>
 <sub>
