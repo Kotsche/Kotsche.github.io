@@ -17,17 +17,17 @@ You can download my detailed CV [here](http://kotsche.github.io/files/CV_Homepag
 Education
 ======
 
-* Doctoral degree in Economics, Goethe University Frankfurt, 2018 (expected)
+Since APR 2014 Doctoral degree in Economics, Goethe University Frankfurt, Spring 2019 (expected)
 * M.Sc. in Economics, Mannheim University, Germany &
 Toulouse School of Economics, France, 2012
 * B.Sc. in Economics, Mannheim University, Germany, 2010
 
 Experience
 ======
-* Since 2014: Research Assistant
+* Since  APR 2014: Research Assistant
   * Goethe University Frankfurt
   * Supervisor: Prof. Dr. Roman Inderst
-  * Research on topics including retail competition, product
+  * Research on topics including retail competition, consumer welfare, market
     regulation and pricing
 
 
@@ -38,4 +38,10 @@ Experience
   * Worked on policy advisory projects for heavily regulated product markets, e.g.
     electricity and pharmaceuticals
 
-  
+* SEP 2012 - MAR 2013: Intern
+  * German-Brazilian Chamber of Commerce, Sao Paulo,
+  * Department for Environment and Renewable Energy
+  * Prepared market studies on the Brazilian market for renewable
+energies
+  * Organized conferences and delegation trips for German small and
+medium-sized companies to Brazil
