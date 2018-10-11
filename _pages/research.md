@@ -14,7 +14,7 @@ Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomic
 
 ## Topics
 
-Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and Bayesian Approaches), Antitrust
+Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and Bayesian Approaches), Competition Policy
 
 
 ## Working papers
@@ -64,7 +64,7 @@ _Working paper available upon request_
 <details>
 <summary>Abstract</summary>
 <sub>
-The degree to which changes in costs are passed on to final consumer prices is a fundamental question in economics, because it determines the effectiveness of many economic policies. The magnitude of cost pass-through depends on factors such as the shape of demand, the horizontal market structure and price rigidities. This paper analyzes how differences in vertical contracts impact the transmission of marginal cost changes in the supply chain. In particular, I simulate consumer preferences from a mixed logit demand model and compare pass-through rates under different vertical contracts induced by three types of cost shocks: product-specific, brand-specific and market-wide cost shocks. As the shape of demand is traditionally a main determinant of cost pass-through, I include further robustness checks by varying the distributional form of heterogeneity in price sensitivity across consumers.
+This paper analyzes how differences in vertical contracts impact the transmission of marginal cost changes in the supply chain. In particular, I simulate consumer preferences from a mixed logit demand model and compare pass-through rates under different vertical contracts induced by three types of cost shocks: product-specific, brand-specific and market-wide cost shocks. Non-market-wide cost shocks typically lead to negative cross-product pass-through rates for multi-product firms depending on the vertical contract structure.  For the agency model, own-cost pass-through rates are higher and cross-product pass-through rates are always positive. I include  a further robustness check by varying the distributional form of heterogeneity in price sensitivity across consumers. Own-cost pass-through rates are dampened if price sensitivity across consumers follows a normal instead of a log-normal distribution. The degree to which changes in marginal costs are passed-on to final consumer prices is a fundamental question in economics as it determines the effectiveness of many economic policies. Therefore, this study relates the simulation results to recently debated policy interventions and discusses the respective policy implications.
 </sub>
 </details>
 
