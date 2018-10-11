@@ -29,6 +29,8 @@ Experience
   * Supervisor: Prof. Dr. Roman Inderst
   * Research on topics including retail competition, consumer welfare, market
     regulation and pricing
+  * Occasionally assisting in writing expert testimonies for regulatory and antitrust cases 
+  * Teaching and supervising bachelor theses in empirical economics
 
 
 * 2013 - 2014: Research Consultant & Policy Adviser
@@ -39,7 +41,7 @@ Experience
     electricity and pharmaceuticals
 
 * SEP 2012 - MAR 2013: Intern
-  * German-Brazilian Chamber of Commerce, Sao Paulo,
+  * German-Brazilian Chamber of Commerce, Sao Paulo, Brazil
   * Department for Environment and Renewable Energy
   * Prepared market studies on the Brazilian market for renewable
 energies
