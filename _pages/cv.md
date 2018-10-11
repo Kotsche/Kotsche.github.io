@@ -30,7 +30,7 @@ Experience
   * Research on topics including retail competition, consumer welfare, market
     regulation and pricing
   * Occasionally assisting in writing expert testimonies for regulatory and antitrust cases 
-  * Teaching and supervising students writing their theses in empirical economics
+  * Teaching and supervising bachelor theses in empirical economics
 
 
 * 2013 - 2014: Research Consultant & Policy Adviser
