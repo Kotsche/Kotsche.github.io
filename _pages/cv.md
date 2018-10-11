@@ -17,7 +17,7 @@ You can download my detailed CV [here](http://kotsche.github.io/files/CV_Homepag
 Education
 ======
 
-Since APR 2014 Doctoral degree in Economics, Goethe University Frankfurt, Spring 2019 (expected)
+* Since APR 2014 Doctoral degree in Economics, Goethe University Frankfurt, Spring 2019 (expected)
 * M.Sc. in Economics, Mannheim University, Germany &
 Toulouse School of Economics, France, 2012
 * B.Sc. in Economics, Mannheim University, Germany, 2010
@@ -31,7 +31,7 @@ Experience
     regulation and pricing
 
 
-* 2013 - 2014: Researcher & Policy Adviser
+* 2013 - 2014: Research Consultant & Policy Adviser
   * Centre for European Economic Research (ZEW),
     Mannheim, Germany
   * Department for Competition and Regulation
