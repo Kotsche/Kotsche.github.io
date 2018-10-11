@@ -14,7 +14,7 @@ Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomic
 
 ## Topics
 
-Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and Bayesian Approaches), Antitrust
+Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and Bayesian Approaches), Competition Policy
 
 
 ## Working papers
