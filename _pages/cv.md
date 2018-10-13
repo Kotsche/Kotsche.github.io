@@ -33,7 +33,7 @@ Experience
   * Teaching and supervising bachelor theses in empirical economics
 
 
-* 2013 - 2014: Research Consultant & Policy Adviser
+* APR 2013 - MAR 2014: Research Consultant & Policy Adviser
   * Centre for European Economic Research (ZEW),
     Mannheim, Germany
   * Department for Competition and Regulation

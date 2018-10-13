@@ -23,19 +23,12 @@ Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and 
 **_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_**  
 _Working paper available upon request_
 
-Presented at: MaCCI 2018, EARIE 2018, EMAC Research Camp 2018 
+Presented at: MaCCI 2018, EARIE 2018 (Rising Stars Session), EMAC Research Camp 2018 
 <details>
 <summary>Abstract</summary>
 <sub>
-Using individual coffee purchase data, this paper analyzes how retailers use their store
-brands to mitigate the effect of brand manufacturer wholesale price increases. This article
-shows how after an asymmetric rise in wholesale prices, retailers' marginal cost of stocking
-national brands increases more than those of stocking their store brand. The estimates from
-a structural model of retail competition indicate that by altering their prices and margins,
-retailers can divert more demand towards store brands and indeed mitigate the losses that
-might have resulted if they had kept their product margins constant. As a consequence, retailers get price-sensitive customers to switch to store brands by lowering their margins.
-For branded products, with a relatively larger change in marginal cost, retailers increase
-their margins instead.
+Using individual coffee purchase data, this paper analyzes how retailers can use their store brands to mitigate the effect of brand manufacturer wholesale price increases. The empirical analysis exploits an asymmetric rise in wholesale prices for store brands and national brands to reveal consumers' substitution patterns.  Combining the estimated consumer preferences with a structural model of retail competition  allows to measure changes in  retailers' unobserved marginal costs and  margins. Multi-brand retailers can increase their category profits by 2-10\% if they re-adjust margins after the asymmetric rise in wholesale prices and divert more demand towards their store brands.
+Another finding is that the positioning of a retailer's store brand dampens the increase in wholesale prices.  A store brand that is perceived as a close substitute (cross-price elasticity approaches one) dampens the increase in wholesale prices for national brands by approximately 14\%, on average, compared to a fully differentiated store brand. This finding provides evidence that	"me-too" store brands work as partial insurance against upstream market structure shocks, favoring store brand positioning close to the leading national brand.
 </sub>
 </details>
 
