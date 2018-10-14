@@ -20,8 +20,8 @@ Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and 
 ## Working papers
 
 
-**_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_**  
-_Working paper available upon request_
+**_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_**  [Link](http://kotsche.github.io/files/JM_Paper_Kotschedoff.pdf)  
+
 
 Presented at: MaCCI 2018, EARIE 2018 (Rising Stars Session), EMAC Research Camp 2018 
 <details>
