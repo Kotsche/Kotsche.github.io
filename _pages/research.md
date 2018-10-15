@@ -17,7 +17,7 @@ Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomic
 Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and Bayesian Approaches), Competition Policy
 
 
-## Working papers
+## Job market paper
 
 
 **_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_**  [Link](http://kotsche.github.io/files/JM_Paper_Kotschedoff.pdf)  
@@ -35,6 +35,8 @@ Another finding is that the positioning of a retailer's store brand dampens the 
    
 <br>
     
+## Working papers
+
 
 **_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_**
 (with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3214249)  
@@ -51,7 +53,7 @@ This paper estimates an individual level demand model for eggs differentiated by
 <br>
 
 **_Cost Pass-Through and Vertical Contracts in  Differentiated Products Markets_**  
-_Working paper available upon request_
+_Preliminary working paper available upon request_
 
 
 <details>
