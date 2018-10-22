@@ -29,7 +29,7 @@ Experience
   * Supervisor: Prof. Dr. Roman Inderst
   * Research on topics including retail competition, consumer welfare, market
     regulation and pricing
-  * Occasionally assisting in writing expert testimonies for regulatory and antitrust cases 
+  * Assisting in writing expert testimonies for regulatory and antitrust cases 
   * Teaching and supervising bachelor theses in empirical economics
 
 
