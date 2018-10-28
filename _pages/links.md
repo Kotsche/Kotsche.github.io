@@ -15,9 +15,11 @@ Here you can find some resources and links that I regard as very useful.
 
 ## Inspiring Talks and Lectures
 
-* [Big Data and Marketing Analytics](https://www.youtube.com/watch?v=IQXkq0_rruU)
+* [Jean-Pierre Dube on Big Data and Marketing Analytics](https://www.youtube.com/watch?v=IQXkq0_rruU)
 
 * [NBER Summer Institute Econometrics Lectures](http://www.nber.org/SI_econometrics_lectures.html)
+
+* [Matthew Taddy on Economic AI](https://www.youtube.com/watch?v=JhTdyLyzxXM)
 
 
 ## IO and Antitrust Resources
