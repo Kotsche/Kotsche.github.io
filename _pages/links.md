@@ -13,13 +13,17 @@ redirect_from:
 Here you can find some resources and links that I regard as very useful.
 
 
-## Inspiring Talks and Lectures
+## Inspiring Talks, Lectures and Books
 
 * [Jean-Pierre Dube on Big Data and Marketing Analytics](https://www.youtube.com/watch?v=IQXkq0_rruU)
 
 * [NBER Summer Institute Econometrics Lectures](http://www.nber.org/SI_econometrics_lectures.html)
 
 * [Matthew Taddy on Economic AI](https://www.youtube.com/watch?v=JhTdyLyzxXM)
+
+
+* [Prediction Machines - by Ajay Agrawal, Joshua Gans and Avi Goldfarb](https://www.predictionmachines.ai/)
+
 
 
 ## IO and Antitrust Resources
@@ -32,6 +36,8 @@ Here you can find some resources and links that I regard as very useful.
 
 
 ## Marketing Analytics Resources
+
+* [Handbook of Marketing Analytics](https://www.e-elgar.com/shop/handbook-of-marketing-analytics)
 
 * [Bayesian Statistics and Marketing](https://onlinelibrary.wiley.com/doi/book/10.1002/0470863692)
 
