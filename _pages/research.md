@@ -36,7 +36,10 @@ This paper estimates an individual level demand model for eggs differentiated by
 <br>
 
 
-**_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_**  [Link](http://kotsche.github.io/files/JM_Paper_Kotschedoff.pdf)  
+## Work in progress
+
+**_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_** 
+_Preliminary working paper available upon request_
 
 
 Presented at: MaCCI 2018, EARIE 2018 (Rising Stars Session), EMAC Research Camp 2018 
