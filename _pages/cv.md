@@ -17,15 +17,23 @@ You can download my detailed CV [here](http://kotsche.github.io/files/CV_Homepag
 Education
 ======
 
-* Doctoral degree in Economics, Goethe University Frankfurt, Spring 2019 (expected)
+* Doctoral degree in Economics, Goethe University Frankfurt, Germany, March 2019
 * M.Sc. in Economics, Mannheim University, Germany &
 Toulouse School of Economics, France, 2012
 * B.Sc. in Economics, Mannheim University, Germany, 2010
 
 Experience
 ======
-* Since  APR 2014: Research Assistant
-  * Goethe University Frankfurt
+* Since SEP 2019 : Assistant Professor in Marketing
+  * Ku Leuven, Belgium
+  * Research on topics including food retailing, consumer welfare, personaled pricing
+  and customer cancellations
+  * Teaching courses in the area of marketing
+  * Supervising Master theses in quantitative marketing
+
+
+* APR 2014 - SEP 2019 : Research Assistant
+  * Goethe University Frankfurt, Germany
   * Supervisor: Prof. Dr. Roman Inderst
   * Research on topics including retail competition, consumer welfare, market
     regulation and pricing
