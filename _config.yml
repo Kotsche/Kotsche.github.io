@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Marco J. W. Kotschedoff"
   avatar           : "Kotschedoff_2017.jpg"
-  bio              : "Doctoral candidate in Economics at Goethe University Frankfurt"
-  location         : "Frankfurt am Main, Germany"
+  bio              : "Assistant Professor in Marketing at KU Leuven"
+  location         : "Antwerp, Belgium"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kotschedoff[at]econ.uni-frankfurt[dot]de"  
+  email            : #"kotschedoff[at]econ.uni-frankfurt[dot]de"  
   uri              :
   bitbucket        :
   codepen          :
