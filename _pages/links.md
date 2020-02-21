@@ -27,7 +27,7 @@ Here you can find some resources and links that I regard as very useful.
 
 ## Marketing Analytics Resources
 
-* [Handbook of Economics of Marketing](https://www.elsevier.com/books/handbook-of-the-economics-of-marketing/dube/978-0-444-63759-8)
+* [Handbook of the Economics of Marketing](https://www.elsevier.com/books/handbook-of-the-economics-of-marketing/dube/978-0-444-63759-8)
 
 * [Handbook of Marketing Analytics](https://www.e-elgar.com/shop/handbook-of-marketing-analytics)
 
