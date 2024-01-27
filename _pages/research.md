@@ -15,8 +15,7 @@ Quantitative Marketing, Marketing and Public Policy, Retailing, Sustainable Cons
 ## Publications
 
 
-_<ins> Kotschedoff, M., Pachali, M. (2020). Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare. Marketing Science, 39 (1), 253-280. </ins>_ [Link](https://doi.org/10.1287/mksc.2019.1172) 
-
+Kotschedoff, M., Pachali, M. (2020). Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare. Marketing Science, 39 (1), 253-280. [Link](https://doi.org/10.1287/mksc.2019.1172) 
 <details><summary>Abstract</summary>
 <sub>
 This paper estimates an individual level demand model for eggs differentiated by animal welfare. Typically, after minimum quality standards for eggs are raised, the price of higher quality eggs falls.  As a result, consumer welfare is redistributed from households who do not value animal welfare to households who are willing to pay a premium for animal welfare. In our analysis of German household data, we find that on average, households with higher income are willing to pay more for eggs that provide higher animal welfare. This provides evidence that higher minimum quality standards have a regressive impact. In counter-factual scenarios, we estimate the cost reduction that would be needed to offset the regressive effect, and find that as retailers' pricing power increases, the cost reduction must be higher. Finally, we consider hypothetical future scenarios that continue to increase the minimum quality standard until only the highest quality eggs remain on the market.
