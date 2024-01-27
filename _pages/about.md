@@ -17,10 +17,10 @@ Contact
 ======
 
 KU Leuven
-Department of Marketing, Faculty of Economics and Business
-Campus Carolus
-Hendrik Conscienceplein 8 
-2000 Antwerpen
-BELGIUM
+Department of Marketing, Faculty of Economics and Business,
+Campus Carolus,
+Hendrik Conscienceplein 8 ,
+2000 Antwerpen,
+Belgium
 
 
