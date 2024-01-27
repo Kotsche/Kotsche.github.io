@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Marco J. W. Kotschedoff"
   avatar           : "Kotschedoff_2017.jpg"
-  bio              : "Assistant Professor in Marketing at KU Leuven"
+  bio              : "Assistant Professor of Marketing at KU Leuven"
   location         : "Antwerp, Belgium"
-  employer         :
+  employer         : "https://www.kuleuven.be/wieiswie/en/person/00128683"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : #"kotschedoff[at]econ.uni-frankfurt[dot]de"  
   uri              :

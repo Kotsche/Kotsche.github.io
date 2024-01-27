@@ -16,7 +16,7 @@ Hello and welcome to my personal homepage! I am an Assistant Professor of Market
 Contact
 ======
 
-Ku Leuven
+KU Leuven
 Department of Marketing, Faculty of Economics and Business
 Campus Carolus
 Hendrik Conscienceplein 8 
