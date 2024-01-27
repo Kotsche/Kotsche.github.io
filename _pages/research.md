@@ -8,30 +8,24 @@ redirect_from:
 
 {% include base_path %}
 
-## Research fields
+## Research Interests
 
-Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomics/Econometrics
+Quantitative Marketing, Marketing and Public Policy, Retailing, Sustainable Consumption 
 
-## Topics
-
-Pricing, Regulation, Consumer Choice Models, Demand Estimation (Frequentist and Bayesian Approaches), Competition Policy
-
-
+## Publications
 
 
 
 **_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_**
-(with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3214249)  
-_<ins> Accepted for publication - Marketing Science (Special Issue on Consumer Protection)</ins>_
+(with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link](https://doi.org/10.1287/mksc.2019.1172)  
+_<ins> (2020). Marketing Science 39(1): 253-280 </ins>_
 
-Presented at: CRESSE 2017, EEA 2017, QME Conference 2017\*, EARIE 2017 (Rising Stars Session)  
-\* by Max Pachali
+
 <details><summary>Abstract</summary>
 <sub>
-This paper estimates an individual level demand model for eggs differentiated by animal welfare. Typically, after minimum quality standards for eggs are raised, the price of higher quality eggs falls. As a result, consumer welfare is redistributed from households who do not value animal welfare to households who are willing to pay a premium for animal welfare. In our analysis of German household data, we find that on average, households with higher income are willing to pay more for eggs that provide higher animal welfare. This provides evidence that higher minimum quality standards have a regressive impact. In counter-factual scenarios, we estimate the cost reduction that would be needed to offset the regressive effect, and find that as retailers' pricing power increases, the cost reduction must be higher. Finally, we consider hypothetical future scenarios that continue to increase the minimum quality standard until only the highest quality eggs remain on the market.  
+This paper estimates an individual level demand model for eggs differentiated by animal welfare. Typically, after minimum quality standards for eggs are raised, the price of higher quality eggs falls.  As a result, consumer welfare is redistributed from households who do not value animal welfare to households who are willing to pay a premium for animal welfare. In our analysis of German household data, we find that on average, households with higher income are willing to pay more for eggs that provide higher animal welfare. This provides evidence that higher minimum quality standards have a regressive impact. In counter-factual scenarios, we estimate the cost reduction that would be needed to offset the regressive effect, and find that as retailers' pricing power increases, the cost reduction must be higher. Finally, we consider hypothetical future scenarios that continue to increase the minimum quality standard until only the highest quality eggs remain on the market.
 </sub>
 </details>
-
 <br>
 
 
