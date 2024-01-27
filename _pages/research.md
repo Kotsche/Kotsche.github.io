@@ -35,13 +35,14 @@ Obesity is increasing worldwide, and in many countries, the problem is particula
 
 ## Selected Working Papers
 
-**Kotschedoff, M.**, Pachali, M., Rao, A. (2024). The Impact of Voluntary Animal Welfare Labels - Draft
-available. Preparing for submission to Marketing Science _Preliminary working paper available upon request_
+**Kotschedoff, M.**, Pachali, M., Rao, A. (2024). The Impact of Voluntary Animal Welfare Labels 
+_Preliminary working paper available upon request_
 
-**Kotschedoff, M.**, Kowalczyk, L., Breugelmans, E.(2023), Consumers' Behavioral Responses to Temporary Store Closures: Evidence From a Labor Strike in Grocery Retail _Working paper available upon request_
+**Kotschedoff, M.**, Kowalczyk, L., Breugelmans, E.(2023), Consumers' Behavioral Responses to Temporary Store Closures: Evidence From a Labor Strike in Grocery Retail 
+_Working paper available upon request_
 
 
-**Kotschedoff, M.**, Malik, F. (2022). Managing Customer Cancellations on Online Booking Platforms. - Repositioning and preparing for submission to Management Science _Working paper available upon request_
+**Kotschedoff, M.**, Malik, F. (2022). Managing Customer Cancellations on Online Booking Platforms. -  _Working paper available upon request_
 
 
 
