@@ -15,11 +15,7 @@ Quantitative Marketing, Marketing and Public Policy, Retailing, Sustainable Cons
 ## Publications
 
 
-
-**_Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare_**
-(with [Max Pachali](https://sites.google.com/site/mjpachali/))  [Link](https://doi.org/10.1287/mksc.2019.1172)  
-_<ins> (2020). Marketing Science 39(1): 253-280 </ins>_
-
+_<ins> Kotschedoff, M., Pachali, M. (2020). Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare. Marketing Science, 39 (1), 253-280. </ins>_ [Link](https://doi.org/10.1287/mksc.2019.1172) 
 
 <details><summary>Abstract</summary>
 <sub>
