@@ -35,7 +35,7 @@ Obesity is increasing worldwide, and in many countries, the problem is particula
 
 ## Selected Working Papers
 
-**Kotschedoff, M.**, Pachali, M., Rao, A. (2024). The Impact of Voluntary Animal Welfare Labels, 
+**Kotschedoff, M.**, Pachali, M., Rao, A. (2024). The Impact of Voluntary Animal Welfare Labels. 
 _Preliminary working paper available upon request_
 
 **Kotschedoff, M.**, Kowalczyk, L., Breugelmans, E. (2023). Consumers' Behavioral Responses to Temporary Store Closures: Evidence From a Labor Strike in Grocery Retail.  
