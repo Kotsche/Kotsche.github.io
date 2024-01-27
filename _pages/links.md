@@ -13,18 +13,6 @@ redirect_from:
 Here you can find some resources and links that I regard as very useful.
 
 
-## Inspiring Talks, Lectures and Books
-
-* [Jean-Pierre Dube on Big Data and Marketing Analytics](https://www.youtube.com/watch?v=IQXkq0_rruU)
-
-* [NBER Summer Institute Econometrics Lectures](http://www.nber.org/SI_econometrics_lectures.html)
-
-* [Matthew Taddy on Economic AI](https://www.youtube.com/watch?v=JhTdyLyzxXM)
-
-
-* [Prediction Machines - by Ajay Agrawal, Joshua Gans and Avi Goldfarb](https://www.predictionmachines.ai/)
-
-
 ## Marketing Analytics Resources
 
 * [Handbook of the Economics of Marketing](https://www.elsevier.com/books/handbook-of-the-economics-of-marketing/dube/978-0-444-63759-8)
@@ -35,27 +23,24 @@ Here you can find some resources and links that I regard as very useful.
 
 * [R for Marketing Research and Analytics](http://r-marketing.r-forge.r-project.org/index.html)
 
-
-## Industrial Organization Resources
-
-* [Quantitative Techniques for Competition and Antitrust Analysis](https://press.princeton.edu/titles/9078.html)
-
 * [Discrete Choice Methods with Simulation](https://www.cambridge.org/core/books/discrete-choice-methods-with-simulation/49CABD00F3DDDA088A8FBFAAAD7E9546)
 
-* [Industrial Organization: Markets and Strategies](http://www.cambridge.org/us/academic/subjects/economics/industrial-economics/industrial-organization-markets-and-strategies-2nd-edition)
+
+## Inspiring Talks, Lectures and Books
+
+* [How I wrote this](https://podcasts.apple.com/us/podcast/how-i-wrote-this/id1701640912)
+
+* [The History of Marketing Science](https://www.worldscientific.com/worldscibooks/10.1142/9128#t=aboutBook)
 
 
+* [Prediction Machines - by Ajay Agrawal, Joshua Gans and Avi Goldfarb](https://www.predictionmachines.ai/)
 
-
-## R-packages
-
-* [bayesm](https://cran.r-project.org/web/packages/bayesm/vignettes/bayesm_Overview_Vignette.html)
-
-* [caret](https://cran.r-project.org/web/packages/caret/caret.pdf)
 
 
 ## Research and Project Management
 
+* [Code and Data for the Social Sciences: A Practitioner's Guide](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+
 * [Github](https://github.com/)
 
-* [Code and Data for the Social Sciences: A Practitioner's Guide](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+* [Overleaf](https://www.overleaf.com/)
