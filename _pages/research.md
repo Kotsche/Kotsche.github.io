@@ -15,7 +15,7 @@ Quantitative Marketing, Marketing and Public Policy, Retailing, Sustainable Cons
 ## Publications
 
 
-*Kotschedoff, M.*, Pachali, M. (2020). Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare. _Marketing Science_, 39 (1), 253-280. [Link](https://doi.org/10.1287/mksc.2019.1172) 
+**Kotschedoff, M.**, Pachali, M. (2020). Higher Minimum Quality Standards and Redistributive Effects on Consumer Welfare. _Marketing Science_, 39 (1), 253-280. [Link](https://doi.org/10.1287/mksc.2019.1172) 
 <details><summary>Abstract</summary>
 <sub>
 This paper estimates an individual level demand model for eggs differentiated by animal welfare. Typically, after minimum quality standards for eggs are raised, the price of higher quality eggs falls.  As a result, consumer welfare is redistributed from households who do not value animal welfare to households who are willing to pay a premium for animal welfare. In our analysis of German household data, we find that on average, households with higher income are willing to pay more for eggs that provide higher animal welfare. This provides evidence that higher minimum quality standards have a regressive impact. In counter-factual scenarios, we estimate the cost reduction that would be needed to offset the regressive effect, and find that as retailers' pricing power increases, the cost reduction must be higher. Finally, we consider hypothetical future scenarios that continue to increase the minimum quality standard until only the highest quality eggs remain on the market.
@@ -24,7 +24,7 @@ This paper estimates an individual level demand model for eggs differentiated by
 <br>
 
 
-Pachali, M., *Kotschedoff, M.*, van Lin, A., Bronnenberg, B., van Herpen, E.  (2023). How Do Nutritional Warning Labels Affect Prices? _Journal of Marketing Research_, 60(1), 92-109. [Link](https://doi.org/10.1177/00222437221105014) 
+Pachali, M., **Kotschedoff, M.**, van Lin, A., Bronnenberg, B., van Herpen, E.  (2023). How Do Nutritional Warning Labels Affect Prices? _Journal of Marketing Research_, 60(1), 92-109. [Link](https://doi.org/10.1177/00222437221105014) 
 <details><summary>Abstract</summary>
 <sub>
 Obesity is increasing worldwide, and in many countries, the problem is particularly serious among lower-income groups. Front-of-pack nutritional warning labels are a prominent regulatory tool to fight obesity and have been implemented or are currently being debated in many countries. Existing studies document that warning labels incentivize consumers to substitute away from unhealthy products. However, not much is known about equilibrium price changes in response to consumers' utility for warning labels. Using household purchase data in the cereal category, this article studies the adjustments of prices after the mandatory introduction of warning labels in Chile. The authors develop a model showing that warning labels lead to higher prices of labeled cereals, as is also observed in data. In contrast, prices of unlabeled products tend to drop or at least increase less, incentivizing price-sensitive consumers to remain in the category. The authors decompose postlabeling market share adjustments into a pure label effect that fixes prices at initial levels after regulation and a total effect that accounts for price reoptimizations. Their findings point to self-enforcing effects of a warning label regulation as the price adjustments amplify policy makers' goal of reducing unhealthy food intake, especially because market forces incentivize low-income segments to choose healthier alternatives.
@@ -33,38 +33,15 @@ Obesity is increasing worldwide, and in many countries, the problem is particula
 <br>
 
 
-## Work in progress
+## Selected Working Papers
 
-**_An Empirical Investigation of Store Brands and their Role to Mitigate Brand Manufacturer Price Increases_** 
-_Preliminary working paper available upon request_
+**Kotschedoff, M.**, Pachali, M., Rao, A. (2024). The Impact of Voluntary Animal Welfare Labels - Draft
+available. Preparing for submission to Marketing Science _Preliminary working paper available upon request_
 
-
-Presented at: MaCCI 2018, EARIE 2018 (Rising Stars Session), EMAC Research Camp 2018 
-<details>
-<summary>Abstract</summary>
-<sub>
-Using individual coffee purchase data, this paper analyzes how retailers can use their store brands to mitigate the effect of brand manufacturer wholesale price increases. The empirical analysis exploits an asymmetric rise in wholesale prices for store brands and national brands to reveal consumers' substitution patterns.  Combining the estimated consumer preferences with a structural model of retail competition  allows to measure changes in  retailers' unobserved marginal costs and  margins. Multi-brand retailers can increase their category profits by 2-10%  if they re-adjust margins after the asymmetric rise in wholesale prices and divert more demand towards their store brands.
-Another finding is that the positioning of a retailer's store brand dampens the increase in wholesale prices.  A store brand that is perceived as a close substitute (cross-price elasticity approaches one) dampens the increase in wholesale prices for national brands by approximately 16%, on average, compared to a fully differentiated store brand. This finding provides evidence that	"me-too" store brands work as partial insurance against upstream market structure shocks, favoring store brand positioning close to the leading national brand.
-</sub>
-</details>
-
-   
-<br>
+**Kotschedoff, M.**, Kowalczyk, L., Breugelmans, E.(2023), Consumers' Behavioral Responses to Temporary Store Closures: Evidence From a Labor Strike in Grocery Retail _Working paper available upon request_
 
 
-**_Cost Pass-Through and Vertical Contracts in  Differentiated Products Markets_**  
-_Preliminary working paper available upon request_
-
-
-<details>
-<summary>Abstract</summary>
-<sub>
-This paper analyzes how differences in vertical contracts impact the transmission of marginal cost changes in the supply chain. In particular, I simulate consumer preferences from a mixed logit demand model and compare pass-through rates under different vertical contracts induced by three types of cost shocks: product-specific, brand-specific and market-wide cost shocks. Non-market-wide cost shocks typically lead to negative cross-product pass-through rates for multi-product firms depending on the vertical contract structure.  For the agency model, cost pass-through rates are higher in absolute amount. I include  a further robustness check by varying the distributional form of heterogeneity in price sensitivity across consumers. Own-cost pass-through rates are dampened if price sensitivity across consumers follows a normal instead of a log-normal distribution. The degree to which changes in marginal costs are passed-on to final consumer prices is a fundamental question in economics as it determines the effectiveness of many economic policies. Therefore, this study relates the simulation results to recently debated policy interventions and discusses the respective policy implications.
-</sub>
-</details>
-
-   
-<br>
+**Kotschedoff, M.**, Malik, F. (2022). Managing Customer Cancellations on Online Booking Platforms. - Repositioning and preparing for submission to Management Science _Working paper available upon request_
 
 
 

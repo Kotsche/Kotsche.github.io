@@ -28,7 +28,7 @@ Here you can find some resources and links that I regard as very useful.
 
 ## Inspiring Talks, Lectures and Books
 
-* [How I wrote this](https://podcasts.apple.com/us/podcast/how-i-wrote-this/id1701640912)
+* [How I Wrote This](https://podcasts.apple.com/us/podcast/how-i-wrote-this/id1701640912)
 
 * [The History of Marketing Science](https://www.worldscientific.com/worldscibooks/10.1142/9128#t=aboutBook)
 
