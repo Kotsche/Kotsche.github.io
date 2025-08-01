@@ -33,13 +33,21 @@ Obesity is increasing worldwide, and in many countries, the problem is particula
 <br>
 
 
+**Kotschedoff, M.**, Kowalczyk, L., Breugelmans, E.  (2025). The persistence of grocery shopping behavior and retailer choice: Evidence from a major labor strike _Quantitative Marketing and Economics_, 1-44. [Link](https://doi.org/10.1007/s11129-025-09298-3) 
+<details><summary>Abstract</summary>
+<sub>
+In this research, we leverage an exogenous shock that temporally deprives consumers of accessing stores of a major retail chain due to a strike resulting in a one-week closure. This temporary store unavailability gives insights into how persistent grocery shopping behavior and retailer choice are after consumers have switched to competing grocery retail chains. Using household purchase data and a difference-in-differences approach, we show that consumers are more likely to visit and spend more at competing grocery chains during the temporary store closure. However, these changes in purchase behavior are only temporary. Consumers quickly revert to their pre-strike shopping behavior once the stores reopen. In a set of calibrated simulations, we illustrate that this persistence of shopping behavior is consistent with low levels of state dependence. The results of persistence in grocery shopping behavior are robust across perishable vs. non-perishable categories and across households with varying levels of share of wallet to the affected retail chain.
+</sub>
+</details>
+<br>
+
+
+
+
 ## Selected Working Papers
 
 **Kotschedoff, M.**, Pachali, M., Rao, A. (2024). The Impact of Voluntary Animal Welfare Labels. 
 _Preliminary working paper available upon request_
-
-**Kotschedoff, M.**, Kowalczyk, L., Breugelmans, E. (2023). Consumers' Behavioral Responses to Temporary Store Closures: Evidence From a Labor Strike in Grocery Retail.  
-_Working paper available upon request_
 
 
 **Kotschedoff, M.**, Malik, F. (2022). Managing Customer Cancellations on Online Booking Platforms.  _Working paper available upon request_
